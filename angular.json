@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "IIS2"
+    }
+  },
+  "defaultProject": "IIS2",
+  "cli": {
+    "analytics": "ba6bf16a-0ad7-4989-bde8-fe389bd0bded"
+  }
 }
